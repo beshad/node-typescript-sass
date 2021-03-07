@@ -1,0 +1,11 @@
+@import './variables';
+
+h2 {
+  color: $color
+}
+
+body {
+  h1 {
+    color: $color;
+  }
+}
